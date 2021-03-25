@@ -8,7 +8,7 @@ The Github repository containing the code for `epitweetr` R package can be found
 `epitweetr` version 0.1.24 is included in [CRAN](https://cran.r-project.org/web/packages/epitweetr/index.html).
 
 ## Data
-Data shared in this [repository](https://github.com/lauespinosa/epitweetr_evaluation/data) corresponds to the list of anonymised signals and events detected by epitweetr and Twitter manual monitoring.
+Data shared in this [repository](https://github.com/lauespinosa/epitweetr_evaluation/tree/main/data) corresponds to the list of anonymised signals and events detected by epitweetr and Twitter manual monitoring.
 
 #### Metadata
 - Sig_day: Day of the signal
