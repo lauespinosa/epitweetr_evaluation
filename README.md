@@ -1,11 +1,11 @@
 # Epitweetr: Early warning of public health threats using Twitter data
 
-This repository contains all additional code and data for the manuscript "Epitweetr: Early warning of public health threats using Twitter data".
+This repository contains all additional code and data for the manuscript "Epitweetr: Early warning of public health threats using Twitter data". The manuscript refers to the first version of `epitweetr` published in CRAN (version 0.1.24).
 
 ## Code
 The Github repository containing the code for `epitweetr` R package can be found [here](https://github.com/EU-ECDC/epitweetr).
 
-`epitweetr` version 0.1.24 is included in [CRAN](https://cran.r-project.org/web/packages/epitweetr/index.html).
+`epitweetr` is included in [CRAN](https://cran.r-project.org/web/packages/epitweetr/index.html).
 
 ## Data
 Data shared in this [repository](https://github.com/lauespinosa/epitweetr_evaluation/tree/main/data) corresponds to the list of anonymised signals and events detected by epitweetr and Twitter manual monitoring.
